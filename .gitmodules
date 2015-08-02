@@ -4,9 +4,9 @@
 [submodule "xylophone"]
 	path = xylophone
 	url = https://github.com/WCRSyyc/xylophone.git
-[submodule "spatual-bot"]
-	path = spatual-bot
-	url = https://github.com/WCRSyyc/spatual-bot.git
 [submodule "display-lf"]
 	path = display-lf
 	url = https://github.com/WCRSyyc/display-lf.git
+[submodule "spatula-bot"]
+	path = spatula-bot
+	url = https://github.com/WCRSyyc/spatula-bot.git
